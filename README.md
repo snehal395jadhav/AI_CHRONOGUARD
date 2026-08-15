@@ -41,6 +41,18 @@
 
 ---
 
+## Project Preview
+
+<a href="https://www.loom.com/share/df1c37f727604bb89063d40916cd9eb3" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CHRONOGUARD/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://www.loom.com/share/df1c37f727604bb89063d40916cd9eb3)
+
+---
+
 # Overview
 
 Navneet AI ChronoGuard is an advanced AI-powered Calendar Quality Control and Pre-Press Validation platform designed to automate complex calendar verification workflows.

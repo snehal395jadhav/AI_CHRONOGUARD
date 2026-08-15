@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  navneet-app:
+    build: .
+    container_name: navneet-app
+    ports:
+      - "8501:8501"
+      - "5001:5001"
+      - "5002:5002"
+    volumes:
+      - ./users.db:/app/users.db
+    restart: unless-stopped

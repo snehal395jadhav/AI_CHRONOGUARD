@@ -20,6 +20,11 @@
 
 <br><br>
 
+![LLM](https://img.shields.io/badge/LLM-AI%20Reasoning-38BDF8?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM%20Gateway-0EA5E9?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Knowledge%20Intelligence-0284C7?style=for-the-badge)
+![AI Agent](https://img.shields.io/badge/AI-Agent-0369A1?style=for-the-badge)
+![AI Copilot](https://img.shields.io/badge/AI-Copilot-38BDF8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11-38BDF8?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-AI%20Dashboard-0EA5E9?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-0284C7?style=for-the-badge&logo=pandas&logoColor=white)
@@ -80,6 +85,64 @@ The platform supports both automated intelligence and human quality-control revi
 - Spelling and Proofing Checks
 
 ---
+
+# Large Language Model (LLM) Integration
+
+Navneet AI ChronoGuard integrates Large Language Models (LLMs) to provide intelligent reasoning, conversational quality-control assistance, anomaly interpretation, and automated report analysis.
+
+The LLM layer works together with the deterministic Calendar Validation Engine. Mathematical calendar rules remain rule-based, while the LLM provides intelligent interpretation and decision-support capabilities.
+
+## LLM Capabilities
+
+- Natural-Language QC Analysis
+- Calendar Error Explanation
+- Validation Failure Interpretation
+- AI-Assisted Anomaly Classification
+- QC Report Summarization
+- Corrective Action Recommendations
+- Holiday Issue Interpretation
+- Risk and Severity Analysis
+- Natural-Language Question Answering
+- Management Summary Generation
+- Document Intelligence
+- Context-Aware QC Assistance
+- Structured JSON Output
+- AI Copilot Responses
+
+## LLM Architecture
+
+```text
+Calendar / PDF Input
+        |
+        v
+Document Processing
+        |
+        v
+Calendar Validation Engine
+        |
+        +-------------------+
+        |                   |
+        v                   v
+Rules Engine          RAG Knowledge Layer
+        |                   |
+        +---------+---------+
+                  |
+                  v
+            LLM Engine
+                  |
+        +---------+---------+
+        |         |         |
+        v         v         v
+    AI Agent   AI Copilot  Analysis
+        |         |         |
+        +---------+---------+
+                  |
+                  v
+         Intelligent QC Result
+                  |
+                  v
+         Human QC Approval
+
 
 ## Intelligent Date Validation
 
@@ -957,9 +1020,12 @@ Useful applications include:
 | PDF Extraction | PDFPlumber |
 | Validation | Pydantic |
 | Fuzzy Matching | RapidFuzz |
-| AI Integration | OpenAI-Compatible APIs |
+| LLM | Configurable Large Language Model |
+| LLM API | OpenAI-Compatible API |
+| LLM Gateway | OpenRouter |
 | AI Framework | LangChain |
-| Agent Workflow | LangGraph |
+| AI Agents | LangGraph |
+| AI Copilot | LLM + RAG |
 | Retrieval | BM25 / RAG |
 | Machine Learning | Scikit-learn |
 | Date Processing | Python Date Utilities |

@@ -43,13 +43,13 @@
 
 ## Project Preview
 
-<a href="https://www.loom.com/share/df1c37f727604bb89063d40916cd9eb3" target="_blank">
+<a href="https://www.loom.com/share/7cd4870772a04aab86720fe199282856" target="_blank">
 
 <img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CHRONOGUARD/main/Screenshot.png"  width="95%"/>
 
 </a>
 
-👉 [Click here to watch full screen demo](https://www.loom.com/share/df1c37f727604bb89063d40916cd9eb3)
+👉 [Click here to watch full screen demo](https://www.loom.com/share/7cd4870772a04aab86720fe199282856)
 
 ---
 
